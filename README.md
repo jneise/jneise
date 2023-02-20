@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @jneise
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning NLP and Textclassification
+- 🌱 I’m currently working on NLP, Textclassification and Object Detection
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me privately johan.neise@outlook.de
 - 🤔 My profession AI Specialist
